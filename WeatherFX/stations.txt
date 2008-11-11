@@ -1,0 +1,19 @@
+   AMSTERDAM/SCHIPH EHAM        06240  52 19N  004 46E    9   X     T          6 NL
+   ZUID-LIMBURG/BEE EHBK        06380  50 55N  005 46E  116   X     T          6 NL
+   DE BILT          EHDB        06260  52 06N  005 10E    4   X        X       7 NL
+   DEELEN RNLAFB    EHDL        06275  52 04N  005 52E   52   X                7 NL
+   EINDHOVEN RNLAFB EHEH        06370  51 27N  005 25E   22   X     T          6 NL
+   GRONINGEN/EELDE  EHGG        06280  53 07N  006 34E    4   X     T          6 NL
+   GILZE-RIJEN RNLA EHGR        06350  51 34N  004 55E   13   X     T          7 NL
+   DE KOOY (NAVY)   EHKD        06235  52 55N  004 46E   14   X     T          6 NL
+   LELYSTAD         EHLE  LEY   06269  52 27N  005 31E   -6   X                7 NL
+   LEEUWARDEN RNLAF EHLW        06270  53 13N  005 45E    2   X     T          7 NL
+   ROTTERDAM AIRPOR EHRD        06344  51 57N  004 27E   -5   X     T          6 NL
+   SOESTERBERG RNLA EHSB        06265  52 07N  005 16E   13   X     T          7 NL
+   TWENTE RNLAFB    EHTW        06290  52 16N  006 54E   36   X     T          6 NL
+   TEXEL ISLAND     EHTX               53 04N  004 45E    3   X                7 NL
+   VALKENBURG (NAVY EHVB        06210  52 10N  004 25E    2   X     T          6 NL
+   VOLKEL RNLAFB    EHVK        06375  51 38N  005 42E   21   X     T          7 NL
+   VLIELAND ISLAND  EHVL        06242  53 14N  004 55E    5   X                7 NL
+   WOENSDRECHT RNLA EHWO        06340  51 27N  004 19E   17   X     T          7 NL
+   YPENBURG RNLAFB  EHYB        06200  52 01N  004 20E    1   Z                7 NL

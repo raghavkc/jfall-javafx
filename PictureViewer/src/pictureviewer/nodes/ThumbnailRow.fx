@@ -107,7 +107,7 @@ public class ThumbnailRow extends CustomNode {
             
             // and move down one field
             var end = at (5s) {
-                            animationPos => -1 * (gapBetweenImages + ThumbnailNode.ySize) * 3 ;
+                            animationPos => -1 * (gapBetweenImages + ThumbnailNode.ySize) * 3 tween Interpolator.EASEBOTH;
             }
             
             keyFrames : [begin,end,cleanup]               
